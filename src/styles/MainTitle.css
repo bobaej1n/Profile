@@ -1,0 +1,29 @@
+@import url("./Font.css");
+
+#mainTitle {
+  margin: 0;
+  padding: 0;
+  width: fit-content;
+  color: #e2e2e2;
+}
+
+#mainTitle ul {
+  margin: 0;
+  padding-inline-start: 0;
+  padding: 50px 0 0 50px;
+  list-style-type: none;
+  font-weight: 500;
+  font-size: 66px;
+  font-family: "DecoBox";
+}
+
+#subTitle {
+  width: fit-content;
+  margin-top: 10px;
+  padding: 2px 4px 3px 4px;
+  font-size: 18px;
+  font-family: "NanumSqaure";
+  font-weight: 600;
+  margin-left: 2px;
+  background-color: #161414;
+}

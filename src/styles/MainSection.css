@@ -1,0 +1,11 @@
+#section {
+  margin: 0 auto;
+  width: 1000px;
+  display: block;
+}
+
+#sectionWrap {
+  position: relative;
+  z-index: 100;
+  padding: 50px 0 80px 0;
+}

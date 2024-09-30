@@ -1,0 +1,15 @@
+@import url("./Font.css");
+
+#mainMenu {
+  width: max-content;
+  margin: 0 24px 0 24px;
+  display: inline;
+  list-style-type: none;
+  color: #e2e2e2;
+  font-family: "Sebang";
+  font-size: 22px;
+}
+
+#mainMenu:hover {
+  color: #000000;
+}

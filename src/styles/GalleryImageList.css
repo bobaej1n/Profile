@@ -1,0 +1,13 @@
+#galleryImageList {
+  margin: 60px auto 100px;
+  width: 1000px;
+  height: 500px;
+  display: block;
+  position: relative;
+}
+
+#galleryImageListWrap {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}

@@ -1,0 +1,23 @@
+#footer {
+  margin: 0;
+  height: 70px;
+  display: block;
+  text-align: center;
+  align-content: center;
+  border-top: 1px solid #c7c7c7;
+  background-color: #ebebec;
+  color: #000000;
+  clear: both;
+}
+
+#footer li {
+  padding-inline-start: 0;
+  list-style: none;
+  display: inline;
+  font-size: 17px;
+  font-family: "NanumSquare";
+}
+
+#footer li span {
+  color: #c7c7c7;
+}
